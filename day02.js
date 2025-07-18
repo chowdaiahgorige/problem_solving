@@ -39,3 +39,23 @@
 // let a="chowdaiah";
 // let b=10;
 // let c=true;
+// let a=19;
+// console.log(a)
+// console.log(typeof a)
+// let a="chowdaiah"
+// console.log(a)
+// console.log(typeof a)
+// let a=true;
+// console.log(a)
+// console.log(typeof a)
+// let a;
+// console.log(a)
+// console.log(typeof a)
+// let a=null;
+// console.log(a)
+// console.log(typeof a)
+// let a=new String("chowdaiah")
+// console.log(typeof a)
+// let a=new Number(10);
+// console.log(typeof a)
+// console.log(a)
