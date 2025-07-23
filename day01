@@ -1,4 +1,4 @@
-1.
+<!-- 1.
 ans:
 A variable is a container to store values
 2.
@@ -23,13 +23,14 @@ ans:variable hoisting means scope of the variable
 ans:
 let a=10;
 console.log(a)
-8.
-ans:
-No it is not possible to declare multiple variables in single line
-9.
+8. -->
+<!-- ans:
+<!-- No it is not possible to declare multiple variables in single line -->
+<!-- 9.
 ans:undefined
 10.
 ans:
 global means we can use any where but local means we cant use anywhere we can only use in a restricted way
 let is a local 
-var is a global
+var is a global --> -->
+
