@@ -72,25 +72,25 @@
 
 //7.
 //ans:
-// let a=4;
-// let i=1;
-// while(i<=a){
-//     i++;
-//     let str="";
-//     let j=1;
-//     while(j<=i){
-//         if(i===1 || i===4 ||j===1 || j===4){
-//             str=str+"*"
-//         }
-//         else{
-//             console.log("")
-//         }
+// let a = 4;
+// let i = 1;
+// while (i <= a) {
+//   let str = "";
+//   let j = 1;
+//   while (j <= a) {
+//     if (i === 1 || i === a || j === 1 || j === a) {
+//       str = str + "*";
+//     } else {
+//       str = str + " ";
 //     }
-//     console.log(str)
+//     j++;
+//   }
+//   console.log(str);
+//   i++;
 // }
 
 
-//8.
+//8.    
 //ans:
 // let a="1235342455abcse";
 // let i=0;
@@ -127,5 +127,8 @@
 //     i++
 // }
 // console.log(count)
+
+
+
 
 
