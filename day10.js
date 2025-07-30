@@ -27,7 +27,7 @@
 
 //4.
 //ans:
-// Firstly we declare a function with function name and we write block of code .then after we should compulsory call it otherwise it is not displays the answer
+// Firstly in js a function is called before its declaration and its works due to hoisting .The hoisting is only works in a function declaration not function expression.
 
 
 //5.
